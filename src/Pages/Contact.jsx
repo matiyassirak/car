@@ -11,20 +11,20 @@ function Contact() {
             <div className="contact-div__text">
               <h2>Need additional information?</h2>
               <p>
-                A multifaceted professional skilled in multiple fields of
-                research, development as well as a learning specialist. Over 15
-                years of experience.
+                Reach out to us anytime – we're here to assist! Whether you have
+                questions, feedback, or need support, our dedicated team is just
+                a call or message away.
               </p>
               <a href="/">
                 <i className="fa-solid fa-phone"></i>&nbsp; (844) 999-0873
               </a>
               <a href="/">
                 <i className="fa-solid fa-envelope"></i>&nbsp;
-                carrental@carmail.com
+                admin@abnetllc.com
               </a>
               <a href="/">
-                <i className="fa-solid fa-location-dot"></i>&nbsp; Belgrade,
-                Serbia
+                <i className="fa-solid fa-location-dot"></i>&nbsp; 1108 East
+                Main St, Ste 906 #3340
               </a>
             </div>
             <div className="contact-div__form">
