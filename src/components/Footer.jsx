@@ -40,19 +40,6 @@ function Footer() {
                 <a href="#home">Contact Us</a>
               </li>
             </ul>
-
-            <ul className="footer-content__2">
-              <li>Subscription</li>
-              <li>
-                <p>Subscribe your Email address for latest news & updates.</p>
-              </li>
-              <li>
-                <input type="email" placeholder="Enter Email Address"></input>
-              </li>
-              <li>
-                <button className="submit-email">Submit</button>
-              </li>
-            </ul>
           </div>
         </div>
       </footer>

@@ -13,7 +13,7 @@ function About() {
             <img
               className="about-main__img"
               src={AboutMain}
-              alt="car-renting"
+              alt="car-service"
             />
             <div className="about-main__text">
               <h3>About Company</h3>

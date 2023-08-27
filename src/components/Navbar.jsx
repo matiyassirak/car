@@ -29,21 +29,6 @@ function Navbar() {
               </Link>
             </li>
             <li>
-              <Link onClick={openNav} to="/models">
-                Models
-              </Link>
-            </li>
-            <li>
-              <Link onClick={openNav} to="/testimonials">
-                Testimonials
-              </Link>
-            </li>
-            <li>
-              <Link onClick={openNav} to="/team">
-                Our Team
-              </Link>
-            </li>
-            <li>
               <Link onClick={openNav} to="/contact">
                 Contact
               </Link>
