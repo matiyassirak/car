@@ -6,7 +6,7 @@ function Footer() {
           <div className="footer-content">
             <ul className="footer-content__1">
               <li>
-                <span>ABN</span> L.L.C
+                <span>ABNET</span> L.L.C
               </li>
               <li>
                 Your Trusted Travel Companion. Where Every Journey Counts.
